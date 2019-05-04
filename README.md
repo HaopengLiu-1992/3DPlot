@@ -12,3 +12,7 @@ Running
 ------------------
 In 3DPlot folder, running command: `python run_script.py`
 Or using any IDEs like Pycharm to run run_script.py
+
+Result Overview
+------------------
+![ScreenShot](https://raw.github.com/liuhpleon/3DPlot/master/pics/sc.png)
